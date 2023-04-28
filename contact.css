@@ -1,0 +1,23 @@
+body{
+   background-color: #777B7E;
+     height: 100vh;
+     color: #373737;
+ }
+ h1{
+   color: white;
+   font-size: 50px;
+   font-family: Roboto Condensed;
+   text-align: center;
+ }
+ p{
+   color: white;
+   font-size: 20px;
+   font-family: Sans Serif;
+   text-align: center;
+ }
+ ul{
+    float: right;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
